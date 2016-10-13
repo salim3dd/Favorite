@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">أذكار اليوم والليلة</string>
+    <string name="favorite">المفضلة</string>
+    <string name="favorite_is_Empty">المفضلة فارغة</string>
+</resources>
